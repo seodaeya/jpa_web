@@ -1,3 +1,6 @@
+# blog link
+https://seodaeya.tistory.com/m/121
+
 # web
 Gradle + SpringBoot + JPA(+QueryDSL) 프로젝트 샘플
 
